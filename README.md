@@ -1,0 +1,2 @@
+- **Installation**: npm install.
+- **Running the Application**: node simulateWebhook.js
